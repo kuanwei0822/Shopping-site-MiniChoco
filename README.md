@@ -1,5 +1,6 @@
 # 網頁切版 Mini Choco
 HTML, CSS, JavaScript 靜態切版作品， RWD 響應式網頁（360px）。
+
 呈現美味可口的巧克力主題網頁。
 
 進度: 
